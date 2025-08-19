@@ -31,7 +31,7 @@ main()
     for (i = 1; i <= 5; i++)
     {
 
-        for (int s = 1; s < i; s++)
+        for (int s = 1; s <= i; s++)
         {
             cout << "  ";
         }
